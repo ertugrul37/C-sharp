@@ -1,0 +1,7 @@
+C:\Users\ertuğrul\Documents\GitHub\C-sharp\metodlar_return\metodlar_return\bin\Debug\metodlar_return.exe.config
+C:\Users\ertuğrul\Documents\GitHub\C-sharp\metodlar_return\metodlar_return\bin\Debug\metodlar_return.exe
+C:\Users\ertuğrul\Documents\GitHub\C-sharp\metodlar_return\metodlar_return\bin\Debug\metodlar_return.pdb
+C:\Users\ertuğrul\Documents\GitHub\C-sharp\metodlar_return\metodlar_return\obj\Debug\metodlar_return.csprojAssemblyReference.cache
+C:\Users\ertuğrul\Documents\GitHub\C-sharp\metodlar_return\metodlar_return\obj\Debug\metodlar_return.csproj.CoreCompileInputs.cache
+C:\Users\ertuğrul\Documents\GitHub\C-sharp\metodlar_return\metodlar_return\obj\Debug\metodlar_return.exe
+C:\Users\ertuğrul\Documents\GitHub\C-sharp\metodlar_return\metodlar_return\obj\Debug\metodlar_return.pdb
